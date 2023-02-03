@@ -48,11 +48,12 @@ h3 {
 .profile-picture {
   width: 15%;
 }
+.profile-para {
+  width: 50%;
+  margin: auto;
+}
 .profile p {
   color: #40514e;
-  font-size: 1.5em;
-  width: 50%;
-  margin: 0 auto;
 }
 .skill-row {
   width: 50%;
@@ -73,15 +74,14 @@ h3 {
 }
 
 .contact-me h3 {
-  line-height: 4;
+  line-height: 1.5;
   width: 50%;
   margin: auto;
   font-size: 1.5em;
 }
-.contact-me p {
+.contact-para {
   width: 50%;
   margin: auto;
-  font-size: 1.5em;
 }
 .btn {
   margin: 40px 0 90px 0px;
